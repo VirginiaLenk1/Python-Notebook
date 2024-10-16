@@ -9,6 +9,9 @@ Welcome to the repository of Python notebooks designed to help navigate through 
   - **Simple Queries**: Discover how to perform straightforward queries without using ADQL.
 - **Tutorial 2: A short `pandas` Tutorial**
   - **Basic Operations**: Learn the fundamentals of using pandas for data manipulation, including creating DataFrames, and performing basic operations like appending and accessing individual rows.
+- **Tutorial 3: A second short `pandas` Tutorial**
+  - **Basic Functions**: Follow-up tutorial on pandas functions, including concat, merge, group, and more. Also, a quick introduction to importing and exporting data is given.
+
     
 ## Getting Started
 
